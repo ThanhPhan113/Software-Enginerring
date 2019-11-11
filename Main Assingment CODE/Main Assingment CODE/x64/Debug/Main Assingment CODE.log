@@ -1,0 +1,27 @@
+﻿  MainCode.c
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(65): warning C4474: 'scanf' : too many arguments passed for format string
+  c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(65): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(66): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(589): note: see declaration of 'strupr'
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(94): warning C4550: expression evaluates to a function which is missing an argument list
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(92): warning C4474: 'scanf' : too many arguments passed for format string
+  c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(92): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(93): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(589): note: see declaration of 'strupr'
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(187): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(189): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(217): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(238): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(589): note: see declaration of 'strupr'
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(239): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(589): note: see declaration of 'strupr'
+c:\users\thanh\downloads\thanh phan u3175008 se main assignment\main assingment code\main assingment code\maincode.c(317): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Main Assingment CODE.vcxproj -> C:\Users\Thanh\Downloads\Thanh Phan u3175008 SE Main Assignment\Main Assingment CODE\x64\Debug\Main Assingment CODE.exe
+  Main Assingment CODE.vcxproj -> C:\Users\Thanh\Downloads\Thanh Phan u3175008 SE Main Assignment\Main Assingment CODE\x64\Debug\Main Assingment CODE.pdb (Partial PDB)
